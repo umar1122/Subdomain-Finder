@@ -38,7 +38,7 @@ A fast, lightweight subdomain enumeration tool written in Python. Discover subdo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourname/subfinder.git
+git clone https://github.com/umar1122/subfinder.git
 cd subfinder
 
 # 2. Install dependencies (optional but recommended)
